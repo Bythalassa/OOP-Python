@@ -32,7 +32,7 @@ OOP-Python/
 
 ## 🔗 Resources 
 
-- **Source:** [[Python for DevOps: Mastering Real-World Automation](https://github.com/Bythalassa/OOP-Python/edit/main/README.md) ](https://www.youtube.com/watch?v=noBSoBNvPmw)
+- **Source:** [(Object-oriented programming in Python...)](https://www.youtube.com/watch?v=noBSoBNvPmw)
 - **Description:** Learn Background about Object, Class and Method with "Object-oriented programming in Python..."
   
 - **Source:** website
