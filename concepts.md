@@ -12,7 +12,9 @@ class Student :
 
 This Class defines what characteristics does all **"Students"** own. And what actins are they able to do.
 
+
 ´´´
+
 class Student :
     def  __init__ (self, name, age, subject, food):
         self.name = name
@@ -25,7 +27,9 @@ class Student :
 
     def  eat (self): 
         return f"Hi, I am hungry. I like to eat {self.food}."
+
 ´´´
+
 The Class Student becomes a blueprint. All Class elements designed act as individual blueprints-
 
 
@@ -44,14 +48,18 @@ alex = Student("Alex, 18, "Computer Science", "Nutella")
 - **example actions** :
 
 ´´´
+
 print(alex.learn())
 print(alex.eat())
+
 ´´´
 
 
 ## 📝 Extra decomposition: Internal Data from Object "alex"
 
 ´´´
+
 {'name': 'Alex', 'age': 18, 'subject': 'Computer Science', 'food': 'Nutella'}
+
 ´´´
 
