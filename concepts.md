@@ -31,7 +31,7 @@ class Student :
 
 ´´´
 
-The class Student becomes a blueprint. All Class elements designed act as individual blueprints.
+"class Student" becomes a blueprint. All Class elements designed act as individual blueprints.
 
 
 ## 📝 Method
