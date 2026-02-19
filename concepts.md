@@ -1,6 +1,6 @@
 ## 📝 Class
 
-- **example one:** In the real World everything has descriptive Data. A Student, our **Subject** in this example,  has a Name and Age. Furthermore, a Student is able to do **actions** such as learn and eat.
+- **example one:** In the real World everything has descriptive Data. A Student has a Name and Age. Furthermore, a Student is able to do **actions** such as learn and eat.
 
 Now let's translate this to Python.
 
