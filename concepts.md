@@ -12,7 +12,7 @@ class Student :
 
 ´´´
 
-This Class defines what characteristics does all **"Students"** own. And what actins are they able to do.
+This Class defines all the characteristics that all **"Students"** possess. And what actions are all Students able to do.
 
 
 ´´´
