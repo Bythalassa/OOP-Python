@@ -35,12 +35,11 @@ class Student :
 
 
 ## 📝 Method
-In example one  __init__, learn and eat are used as  Method 1, Method 2 and Method 3. --Extra :  __init__ is a special Method, because it : Initializes object attributes, while Method 2 and 3 define a behavior.
+- In example one  __init__, learn and eat are used as  Method 1, Method 2 and Method 3. --Extra :  __init__ is a special Method, because it : Initializes object attributes, while Method 2 and 3 define a behavior.
 
 
 ## 📝 Object
-
-- **description** In this example Python uses the "Student" Class to create a real Object. The Object is "Alex". An Object holds actial Data and can perform actions.
+- In this example Python uses the "Student" Class to create a real Object. The Object is "Alex". An Object holds actial Data and can perform actions.
 
 ´´´
 alex = Student("Alex, 18, "Computer Science", "Nutella")
