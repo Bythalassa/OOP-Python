@@ -7,7 +7,9 @@ Now let's translate this to python.
 - **One Class :** We design a Student. So Student is a Class in python.
 
 ´´´
+
 class Student :
+
 ´´´
 
 This Class defines what characteristics does all **"Students"** own. And what actins are they able to do.
