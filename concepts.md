@@ -35,7 +35,7 @@ class Student :
 
 
 ## 📝 Method
-In example one  __init__, learn and eat are used as  Method 1, Method 2 and Method 3. --Extra :  __init__ is a special Method, becuase it : Initializes object attributes, while Method 2 and 3 define a behavior.
+In example one  __init__, learn and eat are used as  Method 1, Method 2 and Method 3. --Extra :  __init__ is a special Method, because it : Initializes object attributes, while Method 2 and 3 define a behavior.
 
 
 ## 📝 Object
