@@ -35,7 +35,7 @@ class Student :
 
 
 ## 📝 Method
-A Method is a function inside a Class. All functions, in our example we use __init__, learn and eat as our Method 1, Method 2 and Method 3. Extra __init__ is a special Method it Initializes object attributes, while Method 2 and 3 define a behavior.
+In example one  __init__, learn and eat are used as  Method 1, Method 2 and Method 3. --Extra :  __init__ is a special Method, becuase it : Initializes object attributes, while Method 2 and 3 define a behavior.
 
 
 ## 📝 Object
