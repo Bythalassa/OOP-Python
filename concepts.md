@@ -16,6 +16,7 @@ This Class defines what characteristics does all **"Students"** own. And what ac
 ´´´
 
 class Student :
+
     def  __init__ (self, name, age, subject, food):
         self.name = name
         self.age = age
