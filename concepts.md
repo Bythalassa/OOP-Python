@@ -39,7 +39,7 @@ class Student :
 
 
 ## 📝 Object
-- In this example Python uses the "Student" Class to create a real Object. The Object is "Alex". An Object holds actial Data and can perform actions.
+- In this example Python uses the "Student" Class to create a real Object. The Object is "Alex". An Object holds actual Data and can perform actions.
 
 ´´´
 alex = Student("Alex, 18, "Computer Science", "Nutella")
