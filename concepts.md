@@ -1,10 +1,10 @@
 ## 📝 Class
 
-- **example one:** In the real world, everyhting has descriptive Data. A Student, our **Subject** in this example,  has a Name and Age. Furthermore, a Student is able to do **actions** such as learn and eat.
+- **example one:** In the real world, everything has descriptive Data. A Student, our **Subject** in this example,  has a Name and Age. Furthermore, a Student is able to do **actions** such as learn and eat.
 
-Now let's translate this to python.
+Now let's translate this to Python.
 
-- **One Class :** We design a Student. So Student is a Class in python.
+- **One Class :** We design a Student. So Student is a Class in Python.
 
 ´´´
 
@@ -12,7 +12,7 @@ class Student :
 
 ´´´
 
-This Class defines all the characteristics that all **"Students"** possess. And what actions are all Students able to do.
+This Class defines all the characteristics in **"Students"**. As well as, all actions involved with **"Students"**.
 
 
 ´´´
@@ -33,7 +33,7 @@ class Student :
 
 ´´´
 
-The Class Student becomes a blueprint. All Class elements designed act as individual blueprints-
+The class Student becomes a blueprint. All Class elements designed act as individual blueprints.
 
 
 ## 📝 Method
