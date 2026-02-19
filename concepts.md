@@ -55,7 +55,7 @@ print(alex.eat())
 ´´´
 
 
-## 📝 Extra decomposition: Internal Data from Object "alex"
+###  Extra decomposition: Internal Data from Object "alex"
 
 ´´´
 
