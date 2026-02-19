@@ -10,8 +10,7 @@ class Student :
 
 ´´´
 
-This Class defines all the characteristics in **"Students"**. As well as, all actions involved with **"Students"**.
-
+A Class can have attributes (characteristics), everytime  and methods (behaviors). Anytime you need to: Initialize object attributes ()
 
 ´´´
 
